@@ -1,0 +1,4 @@
+[AutoRun]
+action=AutoRun
+icon=camertone.ico
+shellexecute=CamertoneCD.exe

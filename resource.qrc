@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/autorun.inf</file>
+        <file>src/camertone.ico</file>
+        <file>src/camertonecd.exe</file>
+        <file>src/CanDictophone.ico</file>
+    </qresource>
+</RCC>
